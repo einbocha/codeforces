@@ -1,0 +1,12 @@
+[workspace]
+authors = ["einbocha <65666391+einbocha@users.noreply.github.com>"]
+channels = ["conda-forge"]
+name = "rust"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+rust = "==1.89.0"
+rust-src = ">=1.89.0,<2"
