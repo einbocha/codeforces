@@ -1,7 +1,7 @@
 [workspace]
 authors = ["einbocha <65666391+einbocha@users.noreply.github.com>"]
 channels = ["conda-forge"]
-name = "rust"
+name = "codeforces"
 platforms = ["osx-arm64"]
 version = "0.1.0"
 
